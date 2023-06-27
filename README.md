@@ -27,7 +27,8 @@ ABBV:
         - Razorpay
     - Order Success Page
     - Order Failed Page
-    - Multilingual   
+    - Multilingual
+      
 # Panels 
     - Customer
         - Register
@@ -50,6 +51,7 @@ ABBV:
             - Customers
             - Profile
             - Change Password 
+        
     - Admin
         - Manage Categorires
         - Manage Products
