@@ -64,6 +64,7 @@ ABBV:
 # Technologies Used  
     - Python    
     - Django
+    - Django REST-fRAMEWORK
     - React Js
     - Bootstrap
     - Postgresql 
