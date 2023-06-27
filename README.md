@@ -27,14 +27,8 @@ ABBV:
         - Razorpay
     - Order Success Page
     - Order Failed Page
-    - Multilingual
-==========================================================
-
-
-
-==========================================================
-# Panels
-==========================================================
+    - Multilingual   
+# Panels 
     - Customer
         - Register
         - Login
@@ -44,7 +38,7 @@ ABBV:
                 - Dowload Scripts
             - Profile
             - Change Password
-==========================================================
+ 
     - Vendor
         - Register
         - Login
@@ -55,24 +49,19 @@ ABBV:
             - Orders
             - Customers
             - Profile
-            - Change Password
-==========================================================
+            - Change Password 
     - Admin
         - Manage Categorires
         - Manage Products
         - Manage Orders
         - Manage Vendors
-        - ManageCustomers
-==========================================================
+        - ManageCustomers 
 
 
-
-==========================================================
-# Technologies Used 
-==========================================================
+ 
+# Technologies Used  
     - Python    
     - Django
     - React Js
     - Bootstrap
-    - Postgresql
-==========================================================
+    - Postgresql 
